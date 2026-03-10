@@ -1,2 +1,6 @@
-# life-story
-Write your life (i.e., only your resume, to practice for behavioural exams) story
+# Write your Life Story
+Idea
+- Upload your resume
+- Get asked questions by an LLM
+- Fill out the holes in your story
+- Repeat
